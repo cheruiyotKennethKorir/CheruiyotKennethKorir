@@ -1,16 +1,20 @@
-## Hi there 👋
+ # Hi there 👋 I'm Cheruiyot Kenneth Korir
 
-<!--
-**cheruiyotKennethKorir/CheruiyotKennethKorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A recent graduate in Actuarial Science, passionate about transforming data into actionable insights.
+ Aspiring **Financial Analyst**, **Data Analyst**, and **Risk Analyst**.
 
-Here are some ideas to get you started:
+🔍 Currently learning:
+- 📊 Data Analysis with Python (Pandas, NumPy, Matplotlib)
+- 📈 Financial Modelling & Advanced Excel
+- 🧠 Machine Learning Fundamentals
+- 🗃️ SQL for Data Management (MySQL, PostgreSQL)
+- 📊 Data Visualization with Power BI & Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Upcoming Projects:
+- 🧾 Excel Budget Tracker
+- 🧠 Loan Default Risk Model (Python)
+- 📊 Interactive Sales Dashboard (Power BI)
+- 📈 Stock Price Trend Analysis (Python & Pandas)
+
+📫 Let's connect: **cheruiyotkennkorir@gmail.com**
+
