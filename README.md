@@ -1,7 +1,7 @@
  # Hi there 👋 I'm Cheruiyot Kenneth Korir
 
  A recent graduate in Actuarial Science, passionate about transforming data into actionable insights.
- Aspiring **Financial Analyst**, **Data Analyst**, and **Risk Analyst**.
+ **Financial Analyst**, **Data Analyst**, and **Risk Analyst** Enthusiast.
 
 🔍 Currently learning:
 - 📊 Data Analysis with Python (Pandas, NumPy, Matplotlib)
